@@ -9,9 +9,9 @@ This code was developed and tested with Python3.6, Pytorch 1.5 and CUDA 10.2 on 
 ## Train AIA on Cifar datasets
 You are able to run the provided demo code.
 
-''' mkdir logs
+```mkdir logs```
 
-sh train_cifar.sh ''' 
+```sh train_cifar.sh ``` 
 
 ## Citing
 If you found our research helpful or influential please consider citing
