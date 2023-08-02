@@ -1,6 +1,8 @@
 # AIA-Attention-in-Attention-
 AIA: Attention in Attention Within Collaborate Domains
 
+ [fig1.pdf](fig\fig1.pdf) 
+
 ## Requirements
 This code was developed and tested with Python3.6, Pytorch 1.5 and CUDA 10.2 on Ubuntu 18.04.5.
 
@@ -9,7 +11,7 @@ You are able to run the provided demo code.
 
 ''' mkdir logs
 
-sh train_cifar.sh '''
+sh train_cifar.sh ''' 
 
 ## Citing
 If you found our research helpful or influential please consider citing
