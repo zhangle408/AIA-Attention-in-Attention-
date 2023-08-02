@@ -1,7 +1,7 @@
 # AIA-Attention-in-Attention-
 AIA: Attention in Attention Within Collaborate Domains
 
- [fig1.pdf](fig\fig1.pdf) 
+ ![fig1.pdf](fig\fig1.jpg) 
 
 ## Requirements
 This code was developed and tested with Python3.6, Pytorch 1.5 and CUDA 10.2 on Ubuntu 18.04.5.
